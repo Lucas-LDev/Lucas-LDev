@@ -38,21 +38,37 @@ Desenvolvi alguns projetos pessoais que você pode visualizar diretamente aqui n
 ## 📂 Projetos:
 ### [💻 Portfólio Web](https://github.com/Lucas-LDev/Lucas-LDev.github.io)
 Um site desenvolvido para compartilhar um pouco sobre mim, meus conhecimentos adquiridos ao longo do tempo estudando programação e apresentar alguns projetos pessoais. O site conta com recursos como:
+
 - Seleção de tema (claro/escuro)
 - Carrossel de imagens dinâmico
 - Responsividade para dispositivos móveis
 
-**Tecnologias:** HTML, CSS e JavaScript.
+**Tecnologias:** HTML, CSS, JavaScript.
 
-### [📝 API de Lista de Tarefas](https://github.com/Lucas-LDev/to-do-list-api)
+---
+
+### [📝 Gerenciador de Tarefas: To-Do List Web](https://github.com/Lucas-LDev/to-do-list-web)
+Um gerenciador de tarefas web criado para permitir que você adicione, marque como concluídas ou exclua tarefas da sua lista.
+
+- As tarefas são salvas localmente no navegador, garantindo que permaneçam disponíveis mesmo após fechar a página.
+
+**Tecnologias:** HTML, CSS, JavaScript.
+
+---
+
+### [📝 API de Lista de Tarefas - JAVA](https://github.com/Lucas-LDev/to-do-list-api)
 Uma API RESTful construída com Java 17 LTS, Spring Boot 3 e Spring Data JPA, permitindo que os usuários gerenciem tarefas. A API possui:
+
 - Documentação OpenAPI (Swagger) para testes fáceis
 - Banco de dados H2 para persistência leve
 
 **Tecnologias:** Java 17 LTS, Spring Boot, Spring Data JPA, OpenAPI, H2 Database.
 
+---
+
 ### [♟ Sistema de Xadrez](https://github.com/Lucas-LDev/Chess-System)
 Um sistema de jogo de xadrez desenvolvido em Java, com implementação completa do tabuleiro de xadrez, movimentos dos jogadores e lógica do jogo. Este projeto demonstra:
+
 - Aplicação dos princípios de orientação a objetos
 - Implementação da lógica do jogo, incluindo regras e estratégias do xadrez
 
